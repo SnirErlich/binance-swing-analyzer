@@ -1,0 +1,50 @@
+name: Binance Swing Analysis
+
+on:
+  schedule:
+    - cron: '5 0 * * *'
+    - cron: '5 4 * * *'
+    - cron: '5 8 * * *'
+    - cron: '5 12 * * *'
+    - cron: '5 16 * * *'
+    - cron: '5 20 * * *'
+  workflow_dispatch:
+    inputs:
+      pairs:
+        description: 'Space-separated pairs to analyze'
+        required: false
+        default: 'FETUSDT ONDOUSDT RENDERUSDT LINKUSDT DOGEUSDT HBARUSDT TAOUSDT'
+
+permissions:
+  contents: write
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install requests numpy
+
+      - name: Run analysis
+        run: |
+          PAIRS="${{ github.event.inputs.pairs || 'FETUSDT ONDOUSDT RENDERUSDT LINKUSDT DOGEUSDT HBARUSDT TAOUSDT' }}"
+          mkdir -p results
+          python scripts/analyze.py $PAIRS > results/latest.txt 2>&1
+          cp /tmp/binance_analysis.json results/latest.json
+
+      - name: Commit and push results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add results/
+          git diff --staged --quiet || git commit -m "Analysis $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
