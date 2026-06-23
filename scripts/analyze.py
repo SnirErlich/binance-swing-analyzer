@@ -21,29 +21,40 @@ if hasattr(sys.stdout, "reconfigure"):
 # ── Config ───────────────────────────────────────────────────────────────────
 INTERVAL   = "4h"
 LIMIT      = 500
-BASE_URL   = "https://api.bybit.com/v5/market/kline"
+BASE_URL   = "https://api.kucoin.com/api/v1/market/candles"
 MAX_FWD    = 60   # candles to resolve a trade before timeout
 MIN_TRADES = 3    # min trades for a valid leaderboard row
 
 
 # ── Fetch ────────────────────────────────────────────────────────────────────
+def _to_kucoin_symbol(symbol: str) -> str:
+    if symbol.upper().endswith("USDT"):
+        return symbol[:-4].upper() + "-USDT"
+    return symbol.upper()
+
+
 def fetch_candles(symbol: str) -> list:
+    kc_symbol = _to_kucoin_symbol(symbol)
+    end_at    = int(time.time())
+    start_at  = end_at - (500 * 4 * 3600)   # 500 x 4H bars back
     r = requests.get(BASE_URL,
-                     params={"category": "spot", "symbol": symbol.upper(),
-                             "interval": "240", "limit": LIMIT},
+                     params={"type": "4hour", "symbol": kc_symbol,
+                             "startAt": start_at, "endAt": end_at},
                      timeout=15)
     r.raise_for_status()
     data = r.json()
-    if data.get("retCode") != 0:
-        raise ValueError(f"Bybit error: {data.get('retMsg')}")
-    # Bybit returns newest-first — reverse to chronological order
-    rows = list(reversed(data["result"]["list"]))
-    return [{"ts":     int(c[0]),
+    if data.get("code") != "200000":
+        raise ValueError(f"KuCoin error: {data.get('msg')}")
+    # KuCoin returns newest-first and timestamps in seconds — reverse + convert to ms
+    # Column order: [timestamp, open, close, high, low, volume, turnover]
+    rows = list(reversed(data["data"]))
+    return [{"ts":     int(c[0]) * 1000,
              "open":   float(c[1]),
-             "high":   float(c[2]),
-             "low":    float(c[3]),
-             "close":  float(c[4]),
+             "high":   float(c[3]),
+             "low":    float(c[4]),
+             "close":  float(c[2]),
              "volume": float(c[5])} for c in rows]
+
 
 # ── Indicators ───────────────────────────────────────────────────────────────
 def _ema(v: np.ndarray, p: int) -> np.ndarray:
