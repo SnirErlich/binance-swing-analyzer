@@ -36,10 +36,12 @@ jobs:
 
       - name: Run analysis
         run: |
+      - name: Run analysis
+        run: |
           PAIRS="${{ github.event.inputs.pairs || 'FETUSDT ONDOUSDT RENDERUSDT LINKUSDT DOGEUSDT HBARUSDT TAOUSDT' }}"
           mkdir -p results
-          python scripts/analyze.py $PAIRS > results/latest.txt 2>&1
-          cp /tmp/binance_analysis.json results/latest.json
+          python scripts/analyze.py $PAIRS | tee results/latest.txt
+          cp /tmp/binance_analysis.json results/latest.json || true
 
       - name: Commit and push results
         run: |
