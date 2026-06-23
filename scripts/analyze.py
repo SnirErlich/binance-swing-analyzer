@@ -29,15 +29,22 @@ MIN_TRADES = 3    # min trades for a valid leaderboard row
 # ── Fetch ────────────────────────────────────────────────────────────────────
 def fetch_candles(symbol: str) -> list:
     r = requests.get(BASE_URL,
-                     params={"symbol": symbol.upper(), "interval": INTERVAL, "limit": LIMIT},
+                     params={"category": "spot", "symbol": symbol.upper(),
+                             "interval": "240", "limit": LIMIT},
                      timeout=15)
     r.raise_for_status()
+    data = r.json()
+    if data.get("retCode") != 0:
+        raise ValueError(f"Bybit error: {data.get('retMsg')}")
+    # Bybit returns newest-first — reverse to chronological order
+    rows = list(reversed(data["result"]["list"]))
     return [{"ts":     int(c[0]),
              "open":   float(c[1]),
              "high":   float(c[2]),
              "low":    float(c[3]),
              "close":  float(c[4]),
-             "volume": float(c[5])} for c in r.json()]
+             "volume": float(c[5])} for c in rows]
+
 
 
 # ── Indicators ───────────────────────────────────────────────────────────────
