@@ -21,7 +21,7 @@ if hasattr(sys.stdout, "reconfigure"):
 # ── Config ───────────────────────────────────────────────────────────────────
 INTERVAL   = "4h"
 LIMIT      = 500
-BASE_URL   = "https://api.binance.com/api/v3/klines"
+BASE_URL   = "https://api.bybit.com/v5/market/kline"
 MAX_FWD    = 60   # candles to resolve a trade before timeout
 MIN_TRADES = 3    # min trades for a valid leaderboard row
 
@@ -44,8 +44,6 @@ def fetch_candles(symbol: str) -> list:
              "low":    float(c[3]),
              "close":  float(c[4]),
              "volume": float(c[5])} for c in rows]
-
-
 
 # ── Indicators ───────────────────────────────────────────────────────────────
 def _ema(v: np.ndarray, p: int) -> np.ndarray:
