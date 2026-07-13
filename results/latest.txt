@@ -35,67 +35,67 @@ Fetching TAOUSDT ...
 ==============================================================
 
   RENDERUSDT
-    Price       : 1.5130   RSI: 33.6   Vol: 1.33x avg -- elevated
+    Price       : 1.5240   RSI: 38.4   Vol: 3.24x avg -- elevated
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 46.1 -> 46.6 -> 47.5 -> 37.9 -> 33.6
-    SL (current): 1.5010  (-0.80%)
-    TP (current): 1.5371  (+1.59%)
+    RSI 5-bar   : 46.6 -> 47.5 -> 37.9 -> 34.1 -> 38.4
+    SL (current): 1.4960  (-1.84%)
+    TP (current): 1.5800  (+3.68%)
     Signal now  : none
-    Last candle : 2026-07-13 00:00 UTC
+    Last candle : 2026-07-13 04:00 UTC
 
   LINKUSDT
-    Price       : 7.9075   RSI: 47.8   Vol: 2.67x avg -- elevated
-    EMAs        : below EMA20 | above EMA50 | below EMA200
-    RSI 5-bar   : 57.1 -> 59.1 -> 59.4 -> 53.5 -> 47.8
-    SL (current): 7.8341  (-0.93%)
-    TP (current): 8.0544  (+1.86%)
+    Price       : 7.9843   RSI: 52.5   Vol: 1.11x avg -- average
+    EMAs        : above EMA20 | above EMA50 | above EMA200
+    RSI 5-bar   : 59.1 -> 59.4 -> 53.5 -> 48.5 -> 52.5
+    SL (current): 7.8345  (-1.88%)
+    TP (current): 8.2839  (+3.75%)
     Signal now  : none
-    Last candle : 2026-07-13 00:00 UTC
+    Last candle : 2026-07-13 04:00 UTC
 
   DOGEUSDT
-    Price       : 0.071910   RSI: 36.1   Vol: 2.55x avg -- elevated
+    Price       : 0.072450   RSI: 40.3   Vol: 0.81x avg -- average
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 44.3 -> 48.0 -> 47.7 -> 40.9 -> 36.1
-    SL (current): 0.071308  (-0.84%)
-    TP (current): 0.073114  (+1.67%)
+    RSI 5-bar   : 48.0 -> 47.7 -> 40.9 -> 37.2 -> 40.3
+    SL (current): 0.071318  (-1.56%)
+    TP (current): 0.074714  (+3.12%)
     Signal now  : none
-    Last candle : 2026-07-13 00:00 UTC
+    Last candle : 2026-07-13 04:00 UTC
 
   ONDOUSDT
-    Price       : 0.315800   RSI: 37.7   Vol: 0.81x avg -- average
+    Price       : 0.319710   RSI: 43.1   Vol: 0.51x avg -- average
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 53.4 -> 51.5 -> 50.9 -> 45.6 -> 37.7
-    SL (current): 0.312813  (-0.95%)
-    TP (current): 0.321774  (+1.89%)
+    RSI 5-bar   : 51.5 -> 50.9 -> 45.6 -> 38.3 -> 43.1
+    SL (current): 0.312878  (-2.14%)
+    TP (current): 0.333374  (+4.27%)
     Signal now  : none
-    Last candle : 2026-07-13 00:00 UTC
+    Last candle : 2026-07-13 04:00 UTC
 
   HBARUSDT
-    Price       : 0.067020   RSI: 32.5   Vol: 1.37x avg -- elevated
+    Price       : 0.067730   RSI: 38.3   Vol: 0.50x avg -- low
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 36.8 -> 36.1 -> 36.1 -> 35.4 -> 32.5
-    SL (current): 0.066352  (-1.00%)
-    TP (current): 0.068356  (+1.99%)
+    RSI 5-bar   : 36.1 -> 36.1 -> 35.4 -> 33.4 -> 38.3
+    SL (current): 0.066363  (-2.02%)
+    TP (current): 0.070465  (+4.04%)
     Signal now  : none
-    Last candle : 2026-07-13 00:00 UTC
+    Last candle : 2026-07-13 04:00 UTC
 
   FETUSDT
-    Price       : 0.156500   RSI: 36.2   Vol: 0.62x avg -- average
+    Price       : 0.160300   RSI: 46.7   Vol: 1.37x avg -- elevated
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 45.1 -> 43.3 -> 43.6 -> 40.0 -> 36.2
-    SL (current): 0.154998  (-0.96%)
-    TP (current): 0.159505  (+1.92%)
+    RSI 5-bar   : 43.3 -> 43.6 -> 40.0 -> 37.7 -> 46.7
+    SL (current): 0.154978  (-3.32%)
+    TP (current): 0.170943  (+6.64%)
     Signal now  : none
-    Last candle : 2026-07-13 00:00 UTC
+    Last candle : 2026-07-13 04:00 UTC
 
   TAOUSDT
-    Price       : 205.890   RSI: 40.2   Vol: 1.41x avg -- elevated
+    Price       : 207.330   RSI: 43.3   Vol: 0.86x avg -- average
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 49.3 -> 53.3 -> 54.3 -> 47.4 -> 40.2
-    SL (current): 203.830  (-1.00%)
-    TP (current): 210.010  (+2.00%)
+    RSI 5-bar   : 53.3 -> 54.3 -> 47.4 -> 40.8 -> 43.3
+    SL (current): 203.854  (-1.68%)
+    TP (current): 214.281  (+3.35%)
     Signal now  : none
-    Last candle : 2026-07-13 00:00 UTC
+    Last candle : 2026-07-13 04:00 UTC
 
 ==============================================================
   SECTION 4 -- VOLUME / CANDLE VALIDITY CHECK
@@ -107,7 +107,6 @@ Fetching TAOUSDT ...
 ==============================================================
   RENDERUSDT leads with score -0.0000 (0.0% win rate over 10 trades, EV -1.000R).
   No signal is active at the last close -- consider waiting for a fresh trigger rather than entering at market.
-  RSI at 33.6 is oversold, increasing the probability of a bounce setup.
   LINKUSDT is the backup; it scores 0.0000 (-0.0000 vs RENDERUSDT) with a weaker current setup quality.
 
 ==============================================================
@@ -117,9 +116,9 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   TOP PICK: RENDERUSDT
 ════════════════════════════════════════════
-  ENTRY       : $1.5130
-  STOP LOSS   : $1.5010  (-0.80%)
-  TAKE PROFIT : $1.5371  (+1.59%)
+  ENTRY       : $1.5240
+  STOP LOSS   : $1.4960  (-1.84%)
+  TAKE PROFIT : $1.5800  (+3.68%)
   R:R         : 1:2.0
   Signal      : EMA50 Bounce (last historical)
   Backtest    : 0.0% win rate | 10 trades | EV -1.000R
@@ -132,9 +131,9 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   BACKUP: LINKUSDT
 ════════════════════════════════════════════
-  ENTRY       : $7.9075
-  STOP LOSS   : $7.8341  (-0.93%)
-  TAKE PROFIT : $8.0544  (+1.86%)
+  ENTRY       : $7.9843
+  STOP LOSS   : $7.8345  (-1.88%)
+  TAKE PROFIT : $8.2839  (+3.75%)
   R:R         : 1:2.0
   Signal      : EMA50 Bounce (last historical)
   Backtest    : 33.3% win rate | 3 trades | EV 0.000R
@@ -145,7 +144,7 @@ Fetching TAOUSDT ...
 ==============================================================
   SECTION 8 -- WARNINGS
 ==============================================================
-  Wait for candle close at 04:00 UTC
+  Wait for candle close at 08:00 UTC
   Counter-trend trade -- consider 50% position size
 
 Full results saved to /tmp/binance_analysis.json
