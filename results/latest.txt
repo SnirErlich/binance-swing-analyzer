@@ -27,7 +27,7 @@ Fetching TAOUSDT ...
   DOGEUSDT         14     5       9    35.7%    3.60%     2.80%    +0.071   0.0841
   FETUSDT           3     0       3     0.0%    0.00%     5.06%    -1.000  -0.0000
   TAOUSDT          14     1      13     7.1%    4.74%     3.49%    -0.786  -0.0561
-  HBARUSDT          8     2       6    25.0%    5.07%     2.50%    -0.250  -0.0625
+  HBARUSDT          8     2       6    25.0%    5.07%     2.43%    -0.250  -0.0625
   RENDERUSDT        6     1       5    16.7%    7.98%     2.38%    -0.500  -0.0833
 
 ==============================================================
@@ -35,82 +35,79 @@ Fetching TAOUSDT ...
 ==============================================================
 
   LINKUSDT
-    Price       : 10.645   RSI: 78.3   Vol: 0.13x avg -- low
+    Price       : 10.854   RSI: 81.9   Vol: 0.53x avg -- average
     EMAs        : above EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 80.2 -> 81.8 -> 82.4 -> 79.0 -> 78.3
-    SL (current): 10.354  (-2.74%)
-    TP (current): 11.227  (+5.47%)
+    RSI 5-bar   : 81.8 -> 82.4 -> 79.0 -> 79.5 -> 81.9
+    SL (current): 10.436  (-3.85%)
+    TP (current): 11.690  (+7.70%)
     Signal now  : none
-    Last candle : 2026-08-20 20:00 UTC
+    Last candle : 2026-08-21 00:00 UTC
 
   ONDOUSDT
-    Price       : 0.349440   RSI: 59.7   Vol: 0.14x avg -- low
-    EMAs        : above EMA20 | above EMA50 | below EMA200
-    RSI 5-bar   : 60.0 -> 67.6 -> 69.5 -> 57.8 -> 59.7
-    SL (current): 0.338960  (-3.00%)
-    TP (current): 0.370401  (+6.00%)
+    Price       : 0.363320   RSI: 67.7   Vol: 0.94x avg -- average
+    EMAs        : above EMA20 | above EMA50 | above EMA200
+    RSI 5-bar   : 67.6 -> 69.5 -> 57.8 -> 63.8 -> 67.7
+    SL (current): 0.340328  (-6.33%)
+    TP (current): 0.409304  (+12.66%)
     Signal now  : none
-    Last candle : 2026-08-20 20:00 UTC
+    Last candle : 2026-08-21 00:00 UTC
 
   DOGEUSDT
-    Price       : 0.080080   RSI: 85.9   Vol: 0.14x avg -- low
+    Price       : 0.082840   RSI: 89.1   Vol: 1.01x avg -- average
     EMAs        : above EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 81.7 -> 86.0 -> 90.0 -> 85.3 -> 85.9
-    SL (current): 0.074017  (-7.57%)
-    TP (current): 0.092206  (+15.14%)
+    RSI 5-bar   : 86.0 -> 90.0 -> 85.3 -> 86.4 -> 89.1
+    SL (current): 0.074778  (-9.73%)
+    TP (current): 0.098963  (+19.46%)
     Signal now  : none
-    Last candle : 2026-08-20 20:00 UTC
+    Last candle : 2026-08-21 00:00 UTC
 
   FETUSDT
-    Price       : 0.141700   RSI: 75.7   Vol: 0.32x avg -- low
-    EMAs        : above EMA20 | above EMA50 | below EMA200
-    RSI 5-bar   : 60.1 -> 68.4 -> 71.7 -> 74.7 -> 75.7
-    SL (current): 0.127676  (-9.90%)
-    TP (current): 0.169748  (+19.79%)
+    Price       : 0.146000   RSI: 79.3   Vol: 0.89x avg -- average
+    EMAs        : above EMA20 | above EMA50 | above EMA200
+    RSI 5-bar   : 68.4 -> 71.7 -> 74.7 -> 76.9 -> 79.3
+    SL (current): 0.128732  (-11.83%)
+    TP (current): 0.180536  (+23.66%)
     Signal now  : none
-    Last candle : 2026-08-20 20:00 UTC
+    Last candle : 2026-08-21 00:00 UTC
 
   TAOUSDT
-    Price       : 211.200   RSI: 72.7   Vol: 0.23x avg -- low
+    Price       : 217.690   RSI: 78.5   Vol: 0.55x avg -- average
     EMAs        : above EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 68.0 -> 76.0 -> 75.4 -> 70.4 -> 72.7
-    SL (current): 202.077  (-4.32%)
-    TP (current): 229.446  (+8.64%)
+    RSI 5-bar   : 76.0 -> 75.4 -> 70.4 -> 76.2 -> 78.5
+    SL (current): 202.912  (-6.79%)
+    TP (current): 247.245  (+13.58%)
     Signal now  : none
-    Last candle : 2026-08-20 20:00 UTC
+    Last candle : 2026-08-21 00:00 UTC
 
   HBARUSDT
-    Price       : 0.072960   RSI: 73.4   Vol: 0.07x avg -- low
+    Price       : 0.074680   RSI: 77.8   Vol: 0.36x avg -- low
     EMAs        : above EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 81.7 -> 86.3 -> 87.0 -> 70.9 -> 73.4
-    SL (current): 0.070190  (-3.80%)
-    TP (current): 0.078501  (+7.59%)
+    RSI 5-bar   : 86.3 -> 87.0 -> 70.9 -> 74.7 -> 77.8
+    SL (current): 0.070886  (-5.08%)
+    TP (current): 0.082269  (+10.16%)
     Signal now  : none
-    Last candle : 2026-08-20 20:00 UTC
+    Last candle : 2026-08-21 00:00 UTC
 
   RENDERUSDT
-    Price       : 1.3870   RSI: 68.6   Vol: 0.47x avg -- low
+    Price       : 1.4160   RSI: 72.8   Vol: 0.38x avg -- low
     EMAs        : above EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 77.3 -> 80.3 -> 82.5 -> 67.6 -> 68.6
-    SL (current): 1.3536  (-2.41%)
-    TP (current): 1.4537  (+4.81%)
+    RSI 5-bar   : 80.3 -> 82.5 -> 67.6 -> 71.0 -> 72.8
+    SL (current): 1.3664  (-3.50%)
+    TP (current): 1.5152  (+7.00%)
     Signal now  : none
-    Last candle : 2026-08-20 20:00 UTC
+    Last candle : 2026-08-21 00:00 UTC
 
 ==============================================================
   SECTION 4 -- VOLUME / CANDLE VALIDITY CHECK
 ==============================================================
-  WARNING  LINKUSDT last candle volume is very low (0.13x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  ONDOUSDT last candle volume is very low (0.14x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  DOGEUSDT last candle volume is very low (0.14x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  TAOUSDT last candle volume is very low (0.23x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  HBARUSDT last candle volume is very low (0.07x avg) -- candle may still be forming. Wait for close before entering.
+  All candles have adequate volume (>= 0.3x avg).
 
 ==============================================================
   SECTION 5 -- WINNER SELECTION
 ==============================================================
   ONDOUSDT leads with score 0.2036 (40.0% win rate over 10 trades, EV 0.200R).
   No signal is active at the last close -- consider waiting for a fresh trigger rather than entering at market.
+  RSI is elevated at 67.7, suggesting momentum may be stretched; reduce position size accordingly.
   FETUSDT is the backup; it scores -0.0000 (+0.2036 vs ONDOUSDT) with weaker backtest results.
 
 ==============================================================
@@ -120,9 +117,9 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   TOP PICK: ONDOUSDT
 ════════════════════════════════════════════
-  ENTRY       : $0.349440
-  STOP LOSS   : $0.338960  (-3.00%)
-  TAKE PROFIT : $0.370401  (+6.00%)
+  ENTRY       : $0.363320
+  STOP LOSS   : $0.340328  (-6.33%)
+  TAKE PROFIT : $0.409304  (+12.66%)
   R:R         : 1:2.0
   Signal      : EMA50 Bounce (last historical)
   Backtest    : 40.0% win rate | 10 trades | EV 0.200R
@@ -135,9 +132,9 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   BACKUP: FETUSDT
 ════════════════════════════════════════════
-  ENTRY       : $0.141700
-  STOP LOSS   : $0.127676  (-9.90%)
-  TAKE PROFIT : $0.169748  (+19.79%)
+  ENTRY       : $0.146000
+  STOP LOSS   : $0.128732  (-11.83%)
+  TAKE PROFIT : $0.180536  (+23.66%)
   R:R         : 1:2.0
   Signal      : EMA50 Bounce (last historical)
   Backtest    : 0.0% win rate | 3 trades | EV -1.000R
@@ -148,6 +145,6 @@ Fetching TAOUSDT ...
 ==============================================================
   SECTION 8 -- WARNINGS
 ==============================================================
-  Counter-trend trade -- consider 50% position size
+  Price extended -- entry is far from EMA20
 
 Full results saved to /tmp/binance_analysis.json
