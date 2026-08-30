@@ -35,77 +35,72 @@ Fetching TAOUSDT ...
 ==============================================================
 
   LINKUSDT
-    Price       : 11.650   RSI: 57.2   Vol: 0.16x avg -- low
+    Price       : 11.641   RSI: 56.8   Vol: 0.94x avg -- average
     EMAs        : above EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 46.0 -> 46.2 -> 47.5 -> 53.9 -> 57.2
-    SL (current): 11.282  (-3.16%)
-    TP (current): 12.387  (+6.32%)
+    RSI 5-bar   : 46.0 -> 46.2 -> 47.5 -> 53.9 -> 56.8
+    SL (current): 11.279  (-3.11%)
+    TP (current): 12.365  (+6.22%)
     Signal now  : none
     Last candle : 2026-08-30 16:00 UTC
 
   ONDOUSDT
-    Price       : 0.361500   RSI: 51.0   Vol: 0.47x avg -- low
-    EMAs        : above EMA20 | below EMA50 | above EMA200
-    RSI 5-bar   : 39.0 -> 44.3 -> 44.9 -> 47.8 -> 51.0
-    SL (current): 0.347036  (-4.00%)
-    TP (current): 0.390427  (+8.00%)
-    Signal now  : none
+    Price       : 0.362450   RSI: 51.9   Vol: 0.83x avg -- average
+    EMAs        : above EMA20 | above EMA50 | above EMA200
+    RSI 5-bar   : 39.0 -> 44.3 -> 44.9 -> 47.8 -> 51.9
+    SL (current): 0.347008  (-4.26%)
+    TP (current): 0.393334  (+8.52%)
+    Signal now  : EMA50 Bounce
     Last candle : 2026-08-30 16:00 UTC
 
   DOGEUSDT
-    Price       : 0.085940   RSI: 49.4   Vol: 0.13x avg -- low
+    Price       : 0.086140   RSI: 50.6   Vol: 0.62x avg -- average
     EMAs        : above EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 42.8 -> 40.9 -> 43.0 -> 45.6 -> 49.4
-    SL (current): 0.083972  (-2.29%)
-    TP (current): 0.089877  (+4.58%)
+    RSI 5-bar   : 42.8 -> 40.9 -> 43.0 -> 45.6 -> 50.6
+    SL (current): 0.083962  (-2.53%)
+    TP (current): 0.090496  (+5.06%)
     Signal now  : EMA50 Bounce, EMA Pullback
     Last candle : 2026-08-30 16:00 UTC
 
   RENDERUSDT
-    Price       : 1.4670   RSI: 49.3   Vol: 0.06x avg -- low
+    Price       : 1.4740   RSI: 51.4   Vol: 0.49x avg -- low
     EMAs        : above EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 46.4 -> 45.9 -> 45.9 -> 45.3 -> 49.3
-    SL (current): 1.4359  (-2.12%)
-    TP (current): 1.5292  (+4.24%)
+    RSI 5-bar   : 46.4 -> 45.9 -> 45.9 -> 45.3 -> 51.4
+    SL (current): 1.4357  (-2.60%)
+    TP (current): 1.5506  (+5.20%)
     Signal now  : EMA50 Bounce, EMA Pullback
     Last candle : 2026-08-30 16:00 UTC
 
   HBARUSDT
-    Price       : 0.075390   RSI: 43.4   Vol: 0.15x avg -- low
+    Price       : 0.075850   RSI: 46.7   Vol: 0.56x avg -- average
     EMAs        : below EMA20 | below EMA50 | above EMA200
-    RSI 5-bar   : 40.4 -> 39.2 -> 40.2 -> 40.0 -> 43.4
-    SL (current): 0.074329  (-1.41%)
-    TP (current): 0.077512  (+2.82%)
+    RSI 5-bar   : 40.4 -> 39.2 -> 40.2 -> 40.0 -> 46.7
+    SL (current): 0.074318  (-2.02%)
+    TP (current): 0.078915  (+4.04%)
     Signal now  : none
     Last candle : 2026-08-30 16:00 UTC
 
   FETUSDT
-    Price       : 0.155100   RSI: 48.7   Vol: 0.06x avg -- low
-    EMAs        : above EMA20 | below EMA50 | above EMA200
-    RSI 5-bar   : 41.7 -> 43.4 -> 47.5 -> 46.0 -> 48.7
-    SL (current): 0.146462  (-5.57%)
-    TP (current): 0.172376  (+11.14%)
-    Signal now  : none
+    Price       : 0.159000   RSI: 54.4   Vol: 1.08x avg -- average
+    EMAs        : above EMA20 | above EMA50 | above EMA200
+    RSI 5-bar   : 41.7 -> 43.4 -> 47.5 -> 46.0 -> 54.4
+    SL (current): 0.146361  (-7.95%)
+    TP (current): 0.184277  (+15.90%)
+    Signal now  : EMA50 Bounce
     Last candle : 2026-08-30 16:00 UTC
 
   TAOUSDT
-    Price       : 238.920   RSI: 51.9   Vol: 0.13x avg -- low
+    Price       : 240.460   RSI: 53.8   Vol: 0.74x avg -- average
     EMAs        : above EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 47.6 -> 49.4 -> 50.7 -> 48.8 -> 51.9
-    SL (current): 231.896  (-2.94%)
-    TP (current): 252.968  (+5.88%)
+    RSI 5-bar   : 47.6 -> 49.4 -> 50.7 -> 48.8 -> 53.8
+    SL (current): 231.818  (-3.59%)
+    TP (current): 257.745  (+7.19%)
     Signal now  : EMA Pullback
     Last candle : 2026-08-30 16:00 UTC
 
 ==============================================================
   SECTION 4 -- VOLUME / CANDLE VALIDITY CHECK
 ==============================================================
-  WARNING  LINKUSDT last candle volume is very low (0.16x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  DOGEUSDT last candle volume is very low (0.13x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  RENDERUSDT last candle volume is very low (0.06x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  HBARUSDT last candle volume is very low (0.15x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  FETUSDT last candle volume is very low (0.06x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  TAOUSDT last candle volume is very low (0.13x avg) -- candle may still be forming. Wait for close before entering.
+  All candles have adequate volume (>= 0.3x avg).
 
 ==============================================================
   SECTION 5 -- WINNER SELECTION
@@ -121,9 +116,9 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   TOP PICK: LINKUSDT
 ════════════════════════════════════════════
-  ENTRY       : $11.650
-  STOP LOSS   : $11.282  (-3.16%)
-  TAKE PROFIT : $12.387  (+6.32%)
+  ENTRY       : $11.641
+  STOP LOSS   : $11.279  (-3.11%)
+  TAKE PROFIT : $12.365  (+6.22%)
   R:R         : 1:2.0
   Signal      : EMA50 Bounce (last historical)
   Backtest    : 62.5% win rate | 8 trades | EV 0.875R
@@ -136,11 +131,11 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   BACKUP: ONDOUSDT
 ════════════════════════════════════════════
-  ENTRY       : $0.361500
-  STOP LOSS   : $0.347036  (-4.00%)
-  TAKE PROFIT : $0.390427  (+8.00%)
+  ENTRY       : $0.362450
+  STOP LOSS   : $0.347008  (-4.26%)
+  TAKE PROFIT : $0.393334  (+8.52%)
   R:R         : 1:2.0
-  Signal      : EMA Pullback (last historical)
+  Signal      : EMA50 Bounce
   Backtest    : 45.5% win rate | 11 trades | EV 0.364R
 ════════════════════════════════════════════
 
