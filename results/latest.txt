@@ -35,76 +35,72 @@ Fetching TAOUSDT ...
 ==============================================================
 
   LINKUSDT
-    Price       : 11.358   RSI: 47.9   Vol: 0.33x avg -- low
-    EMAs        : below EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 44.1 -> 43.3 -> 49.3 -> 49.6 -> 47.9
-    SL (current): 11.035  (-2.85%)
-    TP (current): 12.006  (+5.70%)
+    Price       : 11.323   RSI: 46.6   Vol: 1.07x avg -- average
+    EMAs        : below EMA20 | below EMA50 | above EMA200
+    RSI 5-bar   : 44.1 -> 43.3 -> 49.3 -> 49.6 -> 46.6
+    SL (current): 11.033  (-2.56%)
+    TP (current): 11.903  (+5.12%)
     Signal now  : none
     Last candle : 2026-08-31 20:00 UTC
 
   ONDOUSDT
-    Price       : 0.346060   RSI: 40.5   Vol: 0.11x avg -- low
+    Price       : 0.347090   RSI: 41.4   Vol: 0.68x avg -- average
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 41.0 -> 39.1 -> 37.3 -> 41.3 -> 40.5
-    SL (current): 0.339681  (-1.84%)
-    TP (current): 0.358817  (+3.69%)
+    RSI 5-bar   : 41.0 -> 39.1 -> 37.3 -> 41.3 -> 41.4
+    SL (current): 0.339654  (-2.14%)
+    TP (current): 0.361962  (+4.28%)
     Signal now  : none
     Last candle : 2026-08-31 20:00 UTC
 
   DOGEUSDT
-    Price       : 0.082930   RSI: 39.3   Vol: 0.15x avg -- low
+    Price       : 0.082830   RSI: 38.9   Vol: 0.74x avg -- average
     EMAs        : below EMA20 | below EMA50 | above EMA200
-    RSI 5-bar   : 37.1 -> 36.8 -> 37.8 -> 41.0 -> 39.3
-    SL (current): 0.081472  (-1.76%)
-    TP (current): 0.085845  (+3.52%)
+    RSI 5-bar   : 37.1 -> 36.8 -> 37.8 -> 41.0 -> 38.9
+    SL (current): 0.081466  (-1.65%)
+    TP (current): 0.085557  (+3.29%)
     Signal now  : none
     Last candle : 2026-08-31 20:00 UTC
 
   RENDERUSDT
-    Price       : 1.4130   RSI: 39.8   Vol: 0.20x avg -- low
-    EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 40.4 -> 37.9 -> 38.3 -> 40.7 -> 39.8
-    SL (current): 1.3815  (-2.23%)
-    TP (current): 1.4761  (+4.47%)
+    Price       : 1.4200   RSI: 41.8   Vol: 0.45x avg -- low
+    EMAs        : below EMA20 | below EMA50 | above EMA200
+    RSI 5-bar   : 40.4 -> 37.9 -> 38.3 -> 40.7 -> 41.8
+    SL (current): 1.3814  (-2.72%)
+    TP (current): 1.4971  (+5.43%)
     Signal now  : none
     Last candle : 2026-08-31 20:00 UTC
 
   HBARUSDT
-    Price       : 0.073450   RSI: 37.4   Vol: 0.27x avg -- low
+    Price       : 0.073640   RSI: 38.9   Vol: 0.57x avg -- average
     EMAs        : below EMA20 | below EMA50 | above EMA200
-    RSI 5-bar   : 41.4 -> 40.2 -> 36.4 -> 37.2 -> 37.4
-    SL (current): 0.072763  (-0.94%)
-    TP (current): 0.074824  (+1.87%)
+    RSI 5-bar   : 41.4 -> 40.2 -> 36.4 -> 37.2 -> 38.9
+    SL (current): 0.072763  (-1.19%)
+    TP (current): 0.075394  (+2.38%)
     Signal now  : none
     Last candle : 2026-08-31 20:00 UTC
 
   FETUSDT
-    Price       : 0.152200   RSI: 46.9   Vol: 0.18x avg -- low
+    Price       : 0.153000   RSI: 48.2   Vol: 0.53x avg -- average
     EMAs        : below EMA20 | below EMA50 | above EMA200
-    RSI 5-bar   : 44.5 -> 44.1 -> 42.9 -> 48.1 -> 46.9
-    SL (current): 0.147607  (-3.02%)
-    TP (current): 0.161387  (+6.04%)
+    RSI 5-bar   : 44.5 -> 44.1 -> 42.9 -> 48.1 -> 48.2
+    SL (current): 0.147607  (-3.53%)
+    TP (current): 0.163787  (+7.05%)
     Signal now  : none
     Last candle : 2026-08-31 20:00 UTC
 
   TAOUSDT
-    Price       : 228.830   RSI: 42.6   Vol: 0.32x avg -- low
+    Price       : 230.550   RSI: 45.2   Vol: 0.91x avg -- average
     EMAs        : below EMA20 | below EMA50 | above EMA200
-    RSI 5-bar   : 41.2 -> 41.8 -> 38.0 -> 42.6 -> 42.6
-    SL (current): 222.864  (-2.61%)
-    TP (current): 240.762  (+5.21%)
+    RSI 5-bar   : 41.2 -> 41.8 -> 38.0 -> 42.6 -> 45.2
+    SL (current): 222.847  (-3.34%)
+    TP (current): 245.955  (+6.68%)
     Signal now  : none
     Last candle : 2026-08-31 20:00 UTC
 
 ==============================================================
   SECTION 4 -- VOLUME / CANDLE VALIDITY CHECK
 ==============================================================
-  WARNING  ONDOUSDT last candle volume is very low (0.11x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  DOGEUSDT last candle volume is very low (0.15x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  RENDERUSDT last candle volume is very low (0.20x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  HBARUSDT last candle volume is very low (0.27x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  FETUSDT last candle volume is very low (0.18x avg) -- candle may still be forming. Wait for close before entering.
+  All candles have adequate volume (>= 0.3x avg).
 
 ==============================================================
   SECTION 5 -- WINNER SELECTION
@@ -120,9 +116,9 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   TOP PICK: LINKUSDT
 ════════════════════════════════════════════
-  ENTRY       : $11.358
-  STOP LOSS   : $11.035  (-2.85%)
-  TAKE PROFIT : $12.006  (+5.70%)
+  ENTRY       : $11.323
+  STOP LOSS   : $11.033  (-2.56%)
+  TAKE PROFIT : $11.903  (+5.12%)
   R:R         : 1:2.0
   Signal      : EMA Pullback (last historical)
   Backtest    : 50.0% win rate | 8 trades | EV 0.500R
@@ -135,9 +131,9 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   BACKUP: ONDOUSDT
 ════════════════════════════════════════════
-  ENTRY       : $0.346060
-  STOP LOSS   : $0.339681  (-1.84%)
-  TAKE PROFIT : $0.358817  (+3.69%)
+  ENTRY       : $0.347090
+  STOP LOSS   : $0.339654  (-2.14%)
+  TAKE PROFIT : $0.361962  (+4.28%)
   R:R         : 1:2.0
   Signal      : EMA Pullback (last historical)
   Backtest    : 45.5% win rate | 11 trades | EV 0.364R
@@ -148,6 +144,6 @@ Fetching TAOUSDT ...
 ==============================================================
   SECTION 8 -- WARNINGS
 ==============================================================
-  No active warnings.
+  Wait for candle close at 00:00 UTC
 
 Full results saved to /tmp/binance_analysis.json
