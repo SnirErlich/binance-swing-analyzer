@@ -35,75 +35,76 @@ Fetching TAOUSDT ...
 ==============================================================
 
   ONDOUSDT
-    Price       : 0.351440   RSI: 54.1   Vol: 0.38x avg -- low
-    EMAs        : above EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 38.1 -> 50.1 -> 51.2 -> 54.4 -> 54.1
-    SL (current): 0.336550  (-4.24%)
-    TP (current): 0.381219  (+8.47%)
+    Price       : 0.356140   RSI: 60.0   Vol: 0.11x avg -- low
+    EMAs        : above EMA20 | above EMA50 | below EMA200
+    RSI 5-bar   : 50.1 -> 51.2 -> 54.4 -> 58.8 -> 60.0
+    SL (current): 0.340026  (-4.52%)
+    TP (current): 0.388368  (+9.05%)
     Signal now  : none
-    Last candle : 2026-09-03 08:00 UTC
+    Last candle : 2026-09-03 12:00 UTC
 
   LINKUSDT
-    Price       : 11.200   RSI: 45.6   Vol: 0.24x avg -- low
-    EMAs        : below EMA20 | below EMA50 | above EMA200
-    RSI 5-bar   : 40.4 -> 40.5 -> 45.2 -> 44.3 -> 45.6
-    SL (current): 10.937  (-2.35%)
-    TP (current): 11.726  (+4.70%)
-    Signal now  : none
-    Last candle : 2026-09-03 08:00 UTC
+    Price       : 11.366   RSI: 54.3   Vol: 0.25x avg -- low
+    EMAs        : above EMA20 | above EMA50 | above EMA200
+    RSI 5-bar   : 40.5 -> 45.2 -> 44.3 -> 49.6 -> 54.3
+    SL (current): 10.937  (-3.78%)
+    TP (current): 12.225  (+7.55%)
+    Signal now  : EMA50 Bounce
+    Last candle : 2026-09-03 12:00 UTC
 
   DOGEUSDT
-    Price       : 0.083140   RSI: 50.8   Vol: 0.16x avg -- low
+    Price       : 0.083360   RSI: 52.4   Vol: 0.21x avg -- low
     EMAs        : above EMA20 | below EMA50 | above EMA200
-    RSI 5-bar   : 34.8 -> 39.2 -> 48.0 -> 48.9 -> 50.8
-    SL (current): 0.080443  (-3.24%)
-    TP (current): 0.088535  (+6.49%)
+    RSI 5-bar   : 39.2 -> 48.0 -> 48.9 -> 51.7 -> 52.4
+    SL (current): 0.080514  (-3.41%)
+    TP (current): 0.089053  (+6.83%)
     Signal now  : none
-    Last candle : 2026-09-03 08:00 UTC
+    Last candle : 2026-09-03 12:00 UTC
 
   RENDERUSDT
-    Price       : 1.4470   RSI: 54.6   Vol: 0.27x avg -- low
+    Price       : 1.4470   RSI: 54.3   Vol: 0.09x avg -- low
     EMAs        : above EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 39.1 -> 43.7 -> 46.4 -> 51.1 -> 54.6
-    SL (current): 1.3868  (-4.16%)
-    TP (current): 1.5675  (+8.33%)
-    Signal now  : EMA50 Bounce
-    Last candle : 2026-09-03 08:00 UTC
+    RSI 5-bar   : 43.7 -> 46.4 -> 51.1 -> 55.6 -> 54.3
+    SL (current): 1.3882  (-4.06%)
+    TP (current): 1.5646  (+8.13%)
+    Signal now  : none
+    Last candle : 2026-09-03 12:00 UTC
 
   HBARUSDT
-    Price       : 0.076830   RSI: 64.1   Vol: 0.30x avg -- low
+    Price       : 0.077170   RSI: 65.8   Vol: 0.17x avg -- low
     EMAs        : above EMA20 | above EMA50 | above EMA200
-    RSI 5-bar   : 44.1 -> 50.0 -> 58.5 -> 59.2 -> 64.1
-    SL (current): 0.072776  (-5.28%)
-    TP (current): 0.084937  (+10.55%)
+    RSI 5-bar   : 50.0 -> 58.5 -> 59.2 -> 64.7 -> 65.8
+    SL (current): 0.073589  (-4.64%)
+    TP (current): 0.084331  (+9.28%)
     Signal now  : none
-    Last candle : 2026-09-03 08:00 UTC
+    Last candle : 2026-09-03 12:00 UTC
 
   FETUSDT
-    Price       : 0.154300   RSI: 51.1   Vol: 0.14x avg -- low
-    EMAs        : above EMA20 | below EMA50 | above EMA200
-    RSI 5-bar   : 43.1 -> 45.3 -> 50.5 -> 52.0 -> 51.1
-    SL (current): 0.149092  (-3.38%)
-    TP (current): 0.164715  (+6.75%)
+    Price       : 0.154600   RSI: 52.0   Vol: 0.34x avg -- low
+    EMAs        : above EMA20 | above EMA50 | above EMA200
+    RSI 5-bar   : 45.3 -> 50.5 -> 52.0 -> 51.4 -> 52.0
+    SL (current): 0.149131  (-3.54%)
+    TP (current): 0.165538  (+7.08%)
     Signal now  : none
-    Last candle : 2026-09-03 08:00 UTC
+    Last candle : 2026-09-03 12:00 UTC
 
   TAOUSDT
-    Price       : 221.870   RSI: 42.7   Vol: 0.22x avg -- low
+    Price       : 222.290   RSI: 43.7   Vol: 0.22x avg -- low
     EMAs        : below EMA20 | below EMA50 | above EMA200
-    RSI 5-bar   : 29.4 -> 30.3 -> 33.7 -> 43.3 -> 42.7
-    SL (current): 213.701  (-3.68%)
-    TP (current): 238.209  (+7.36%)
+    RSI 5-bar   : 30.3 -> 33.7 -> 43.3 -> 44.5 -> 43.7
+    SL (current): 213.732  (-3.85%)
+    TP (current): 239.406  (+7.70%)
     Signal now  : none
-    Last candle : 2026-09-03 08:00 UTC
+    Last candle : 2026-09-03 12:00 UTC
 
 ==============================================================
   SECTION 4 -- VOLUME / CANDLE VALIDITY CHECK
 ==============================================================
-  WARNING  LINKUSDT last candle volume is very low (0.24x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  DOGEUSDT last candle volume is very low (0.16x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  RENDERUSDT last candle volume is very low (0.27x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  FETUSDT last candle volume is very low (0.14x avg) -- candle may still be forming. Wait for close before entering.
+  WARNING  ONDOUSDT last candle volume is very low (0.11x avg) -- candle may still be forming. Wait for close before entering.
+  WARNING  LINKUSDT last candle volume is very low (0.25x avg) -- candle may still be forming. Wait for close before entering.
+  WARNING  DOGEUSDT last candle volume is very low (0.21x avg) -- candle may still be forming. Wait for close before entering.
+  WARNING  RENDERUSDT last candle volume is very low (0.09x avg) -- candle may still be forming. Wait for close before entering.
+  WARNING  HBARUSDT last candle volume is very low (0.17x avg) -- candle may still be forming. Wait for close before entering.
   WARNING  TAOUSDT last candle volume is very low (0.22x avg) -- candle may still be forming. Wait for close before entering.
 
 ==============================================================
@@ -120,9 +121,9 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   TOP PICK: ONDOUSDT
 ════════════════════════════════════════════
-  ENTRY       : $0.351440
-  STOP LOSS   : $0.336550  (-4.24%)
-  TAKE PROFIT : $0.381219  (+8.47%)
+  ENTRY       : $0.356140
+  STOP LOSS   : $0.340026  (-4.52%)
+  TAKE PROFIT : $0.388368  (+9.05%)
   R:R         : 1:2.0
   Signal      : EMA Pullback (last historical)
   Backtest    : 40.0% win rate | 10 trades | EV 0.200R
@@ -135,11 +136,11 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   BACKUP: LINKUSDT
 ════════════════════════════════════════════
-  ENTRY       : $11.200
-  STOP LOSS   : $10.937  (-2.35%)
-  TAKE PROFIT : $11.726  (+4.70%)
+  ENTRY       : $11.366
+  STOP LOSS   : $10.937  (-3.78%)
+  TAKE PROFIT : $12.225  (+7.55%)
   R:R         : 1:2.0
-  Signal      : EMA Pullback (last historical)
+  Signal      : EMA50 Bounce
   Backtest    : 36.4% win rate | 11 trades | EV 0.091R
 ════════════════════════════════════════════
 
