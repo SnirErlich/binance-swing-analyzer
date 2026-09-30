@@ -13,32 +13,32 @@
     },
     "current_state": {
       "symbol": "HBARUSDT",
-      "price": 0.10639,
-      "rsi": 51.4,
-      "atr": 0.00474865,
-      "vol_ratio": 0.28,
+      "price": 0.10929,
+      "rsi": 55.1,
+      "atr": 0.00461242,
+      "vol_ratio": 0.11,
       "vol_label": "low",
-      "ema20": 0.10690161,
-      "ema50": 0.10064272,
-      "ema200": 0.0865859,
+      "ema20": 0.10731348,
+      "ema50": 0.10106246,
+      "ema200": 0.08683314,
       "ema_pos": [
-        "below EMA20",
+        "above EMA20",
         "above EMA50",
         "above EMA200"
       ],
       "rsi_trend": [
-        50.0,
         51.6,
         55.4,
         53.5,
-        51.4
+        54.2,
+        55.1
       ],
-      "sl": 0.09973541,
-      "tp": 0.11969919,
-      "sl_pct": 6.25,
-      "tp_pct": 12.51,
-      "last_dt": "2026-09-30 16:00 UTC",
-      "last_ts_ms": 1790784000000,
+      "sl": 0.10190627,
+      "tp": 0.12405745,
+      "sl_pct": 6.76,
+      "tp_pct": 13.51,
+      "last_dt": "2026-09-30 20:00 UTC",
+      "last_ts_ms": 1790798400000,
       "curr_signals": []
     }
   },
@@ -56,33 +56,35 @@
     },
     "current_state": {
       "symbol": "TAOUSDT",
-      "price": 304.3,
-      "rsi": 47.7,
-      "atr": 10.83156476,
-      "vol_ratio": 0.66,
-      "vol_label": "average",
-      "ema20": 307.18535609,
-      "ema50": 302.06682297,
-      "ema200": 265.94362221,
+      "price": 302.43,
+      "rsi": 46.8,
+      "atr": 10.65002442,
+      "vol_ratio": 0.15,
+      "vol_label": "low",
+      "ema20": 306.36366685,
+      "ema50": 301.91980416,
+      "ema200": 266.26108778,
       "ema_pos": [
         "below EMA20",
         "above EMA50",
         "above EMA200"
       ],
       "rsi_trend": [
-        45.2,
         45.5,
         49.2,
         49.4,
-        47.7
+        44.9,
+        46.8
       ],
-      "sl": 294.21053057,
-      "tp": 324.47893886,
-      "sl_pct": 3.32,
-      "tp_pct": 6.63,
-      "last_dt": "2026-09-30 16:00 UTC",
-      "last_ts_ms": 1790784000000,
-      "curr_signals": []
+      "sl": 295.41499267,
+      "tp": 316.46001465,
+      "sl_pct": 2.32,
+      "tp_pct": 4.64,
+      "last_dt": "2026-09-30 20:00 UTC",
+      "last_ts_ms": 1790798400000,
+      "curr_signals": [
+        "EMA50 Bounce"
+      ]
     }
   },
   {
@@ -99,32 +101,32 @@
     },
     "current_state": {
       "symbol": "FETUSDT",
-      "price": 0.2224,
-      "rsi": 46.4,
-      "atr": 0.00962208,
-      "vol_ratio": 0.39,
+      "price": 0.2265,
+      "rsi": 49.9,
+      "atr": 0.0093455,
+      "vol_ratio": 0.06,
       "vol_label": "low",
-      "ema20": 0.22643314,
-      "ema50": 0.22140294,
-      "ema200": 0.18969883,
+      "ema20": 0.22655152,
+      "ema50": 0.2216518,
+      "ema200": 0.19007931,
       "ema_pos": [
         "below EMA20",
         "above EMA50",
         "above EMA200"
       ],
       "rsi_trend": [
-        43.6,
         41.3,
         46.8,
         47.6,
-        46.4
+        47.4,
+        49.9
       ],
-      "sl": 0.21021338,
-      "tp": 0.24677325,
-      "sl_pct": 5.48,
-      "tp_pct": 10.96,
-      "last_dt": "2026-09-30 16:00 UTC",
-      "last_ts_ms": 1790784000000,
+      "sl": 0.21029635,
+      "tp": 0.2589073,
+      "sl_pct": 7.15,
+      "tp_pct": 14.31,
+      "last_dt": "2026-09-30 20:00 UTC",
+      "last_ts_ms": 1790798400000,
       "curr_signals": []
     }
   },
@@ -142,32 +144,32 @@
     },
     "current_state": {
       "symbol": "RENDERUSDT",
-      "price": 1.924,
-      "rsi": 48.7,
-      "atr": 0.06338125,
-      "vol_ratio": 0.43,
+      "price": 1.92,
+      "rsi": 48.4,
+      "atr": 0.06119075,
+      "vol_ratio": 0.11,
       "vol_label": "low",
-      "ema20": 1.93931579,
-      "ema50": 1.88524962,
-      "ema200": 1.64950814,
+      "ema20": 1.93618368,
+      "ema50": 1.88604721,
+      "ema200": 1.65206598,
       "ema_pos": [
         "below EMA20",
         "above EMA50",
         "above EMA200"
       ],
       "rsi_trend": [
-        49.3,
         50.0,
         53.4,
         52.1,
-        48.7
+        46.9,
+        48.4
       ],
-      "sl": 1.87498562,
-      "tp": 2.02202875,
-      "sl_pct": 2.55,
-      "tp_pct": 5.1,
-      "last_dt": "2026-09-30 16:00 UTC",
-      "last_ts_ms": 1790784000000,
+      "sl": 1.88664277,
+      "tp": 1.98671445,
+      "sl_pct": 1.74,
+      "tp_pct": 3.47,
+      "last_dt": "2026-09-30 20:00 UTC",
+      "last_ts_ms": 1790798400000,
       "curr_signals": []
     }
   },
@@ -185,75 +187,77 @@
     },
     "current_state": {
       "symbol": "DOGEUSDT",
-      "price": 0.09432,
-      "rsi": 47.7,
-      "atr": 0.00223102,
-      "vol_ratio": 0.17,
+      "price": 0.09458,
+      "rsi": 49.0,
+      "atr": 0.00216967,
+      "vol_ratio": 0.03,
       "vol_label": "low",
-      "ema20": 0.09473101,
-      "ema50": 0.09444062,
-      "ema200": 0.08892864,
-      "ema_pos": [
-        "below EMA20",
-        "below EMA50",
-        "above EMA200"
-      ],
-      "rsi_trend": [
-        43.4,
-        45.3,
-        53.8,
-        52.0,
-        47.7
-      ],
-      "sl": 0.09216069,
-      "tp": 0.09863861,
-      "sl_pct": 2.29,
-      "tp_pct": 4.58,
-      "last_dt": "2026-09-30 16:00 UTC",
-      "last_ts_ms": 1790784000000,
-      "curr_signals": []
-    }
-  },
-  {
-    "symbol": "ONDOUSDT",
-    "backtest": {
-      "trades": 12,
-      "wins": 5,
-      "losses": 7,
-      "win_rate": 41.7,
-      "avg_win_pct": 11.82,
-      "avg_loss_pct": 4.44,
-      "ev": 0.25,
-      "score": 0.3433
-    },
-    "current_state": {
-      "symbol": "ONDOUSDT",
-      "price": 0.50466,
-      "rsi": 46.6,
-      "atr": 0.02231995,
-      "vol_ratio": 0.48,
-      "vol_label": "low",
-      "ema20": 0.51350074,
-      "ema50": 0.49899894,
-      "ema200": 0.42576635,
+      "ema20": 0.09469422,
+      "ema50": 0.09443629,
+      "ema200": 0.08898191,
       "ema_pos": [
         "below EMA20",
         "above EMA50",
         "above EMA200"
       ],
       "rsi_trend": [
-        43.2,
+        45.3,
+        53.8,
+        52.0,
+        46.8,
+        49.0
+      ],
+      "sl": 0.0921791,
+      "tp": 0.0993818,
+      "sl_pct": 2.54,
+      "tp_pct": 5.08,
+      "last_dt": "2026-09-30 20:00 UTC",
+      "last_ts_ms": 1790798400000,
+      "curr_signals": [
+        "EMA50 Bounce"
+      ]
+    }
+  },
+  {
+    "symbol": "ONDOUSDT",
+    "backtest": {
+      "trades": 13,
+      "wins": 5,
+      "losses": 8,
+      "win_rate": 38.5,
+      "avg_win_pct": 11.82,
+      "avg_loss_pct": 4.34,
+      "ev": 0.154,
+      "score": 0.195
+    },
+    "current_state": {
+      "symbol": "ONDOUSDT",
+      "price": 0.49678,
+      "rsi": 44.4,
+      "atr": 0.02297827,
+      "vol_ratio": 0.06,
+      "vol_label": "low",
+      "ema20": 0.51062697,
+      "ema50": 0.49835165,
+      "ema200": 0.42634663,
+      "ema_pos": [
+        "below EMA20",
+        "below EMA50",
+        "above EMA200"
+      ],
+      "rsi_trend": [
         43.5,
         46.8,
         45.0,
-        46.6
+        41.4,
+        44.4
       ],
-      "sl": 0.48540401,
-      "tp": 0.54317197,
-      "sl_pct": 3.82,
-      "tp_pct": 7.63,
-      "last_dt": "2026-09-30 16:00 UTC",
-      "last_ts_ms": 1790784000000,
+      "sl": 0.46966652,
+      "tp": 0.55100696,
+      "sl_pct": 5.46,
+      "tp_pct": 10.92,
+      "last_dt": "2026-09-30 20:00 UTC",
+      "last_ts_ms": 1790798400000,
       "curr_signals": []
     }
   },
@@ -271,32 +275,32 @@
     },
     "current_state": {
       "symbol": "LINKUSDT",
-      "price": 14.3531,
-      "rsi": 50.5,
-      "atr": 0.44203998,
-      "vol_ratio": 0.5,
-      "vol_label": "average",
-      "ema20": 14.43440414,
-      "ema50": 13.9145559,
-      "ema200": 12.40545456,
+      "price": 14.3311,
+      "rsi": 50.2,
+      "atr": 0.42160702,
+      "vol_ratio": 0.12,
+      "vol_label": "low",
+      "ema20": 14.41465635,
+      "ema50": 13.92655801,
+      "ema200": 12.42351418,
       "ema_pos": [
         "below EMA20",
         "above EMA50",
         "above EMA200"
       ],
       "rsi_trend": [
-        50.9,
         49.8,
         51.9,
         48.7,
-        50.5
+        48.5,
+        50.2
       ],
-      "sl": 13.92288801,
-      "tp": 15.21352399,
-      "sl_pct": 3.0,
-      "tp_pct": 5.99,
-      "last_dt": "2026-09-30 16:00 UTC",
-      "last_ts_ms": 1790784000000,
+      "sl": 13.92901789,
+      "tp": 15.13526421,
+      "sl_pct": 2.81,
+      "tp_pct": 5.61,
+      "last_dt": "2026-09-30 20:00 UTC",
+      "last_ts_ms": 1790798400000,
       "curr_signals": []
     }
   }
