@@ -35,78 +35,72 @@ Fetching TAOUSDT ...
 ==============================================================
 
   RENDERUSDT
-    Price       : 1.7020   RSI: 38.2   Vol: 0.01x avg -- low
+    Price       : 1.7220   RSI: 42.9   Vol: 0.82x avg -- average
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 38.3 -> 35.9 -> 35.7 -> 38.5 -> 38.2
-    SL (current): 1.6578  (-2.60%)
-    TP (current): 1.7904  (+5.19%)
+    RSI 5-bar   : 38.3 -> 35.9 -> 35.7 -> 38.5 -> 42.9
+    SL (current): 1.6572  (-3.77%)
+    TP (current): 1.8517  (+7.53%)
     Signal now  : none
     Last candle : 2026-10-25 16:00 UTC
 
   FETUSDT
-    Price       : 0.176100   RSI: 38.4   Vol: 0.00x avg -- low
+    Price       : 0.176300   RSI: 38.7   Vol: 1.58x avg -- elevated
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 39.6 -> 38.4 -> 36.2 -> 38.7 -> 38.4
-    SL (current): 0.171346  (-2.70%)
-    TP (current): 0.185607  (+5.40%)
+    RSI 5-bar   : 39.6 -> 38.4 -> 36.2 -> 38.7 -> 38.7
+    SL (current): 0.171295  (-2.84%)
+    TP (current): 0.186310  (+5.68%)
     Signal now  : none
     Last candle : 2026-10-25 16:00 UTC
 
   HBARUSDT
-    Price       : 0.077190   RSI: 38.5   Vol: 0.26x avg -- low
+    Price       : 0.077950   RSI: 43.0   Vol: 0.22x avg -- low
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 39.7 -> 43.3 -> 40.0 -> 37.2 -> 38.5
-    SL (current): 0.076002  (-1.54%)
-    TP (current): 0.079565  (+3.08%)
+    RSI 5-bar   : 43.3 -> 40.0 -> 37.2 -> 38.5 -> 43.0
+    SL (current): 0.076013  (-2.48%)
+    TP (current): 0.081823  (+4.97%)
     Signal now  : none
-    Last candle : 2026-10-25 12:00 UTC
+    Last candle : 2026-10-25 16:00 UTC
 
   ONDOUSDT
-    Price       : 0.406040   RSI: 34.2   Vol: 0.00x avg -- low
+    Price       : 0.409760   RSI: 38.4   Vol: 0.38x avg -- low
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 35.2 -> 32.3 -> 32.2 -> 34.5 -> 34.2
-    SL (current): 0.394657  (-2.80%)
-    TP (current): 0.428805  (+5.61%)
+    RSI 5-bar   : 35.2 -> 32.3 -> 32.2 -> 34.5 -> 38.4
+    SL (current): 0.394523  (-3.72%)
+    TP (current): 0.440234  (+7.44%)
     Signal now  : none
     Last candle : 2026-10-25 16:00 UTC
 
   TAOUSDT
-    Price       : 251.350   RSI: 40.9   Vol: 0.00x avg -- low
-    EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 40.1 -> 36.1 -> 37.6 -> 41.1 -> 40.9
-    SL (current): 243.458  (-3.14%)
-    TP (current): 267.134  (+6.28%)
+    Price       : 255.070   RSI: 47.2   Vol: 0.55x avg -- average
+    EMAs        : above EMA20 | below EMA50 | below EMA200
+    RSI 5-bar   : 40.1 -> 36.1 -> 37.6 -> 41.1 -> 47.2
+    SL (current): 243.376  (-4.58%)
+    TP (current): 278.457  (+9.17%)
     Signal now  : none
     Last candle : 2026-10-25 16:00 UTC
 
   LINKUSDT
-    Price       : 11.422   RSI: 34.2   Vol: 0.01x avg -- low
+    Price       : 11.529   RSI: 39.2   Vol: 0.60x avg -- average
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 37.6 -> 33.3 -> 33.5 -> 34.5 -> 34.2
-    SL (current): 11.203  (-1.93%)
-    TP (current): 11.862  (+3.85%)
+    RSI 5-bar   : 37.6 -> 33.3 -> 33.5 -> 34.5 -> 39.2
+    SL (current): 11.200  (-2.86%)
+    TP (current): 12.188  (+5.71%)
     Signal now  : none
     Last candle : 2026-10-25 16:00 UTC
 
   DOGEUSDT
-    Price       : 0.077190   RSI: 41.3   Vol: 0.01x avg -- low
+    Price       : 0.077430   RSI: 42.7   Vol: 1.59x avg -- elevated
     EMAs        : below EMA20 | below EMA50 | below EMA200
-    RSI 5-bar   : 43.3 -> 39.0 -> 38.4 -> 41.7 -> 41.3
-    SL (current): 0.075588  (-2.08%)
-    TP (current): 0.080394  (+4.15%)
+    RSI 5-bar   : 43.3 -> 39.0 -> 38.4 -> 41.7 -> 42.7
+    SL (current): 0.075575  (-2.40%)
+    TP (current): 0.081140  (+4.79%)
     Signal now  : none
     Last candle : 2026-10-25 16:00 UTC
 
 ==============================================================
   SECTION 4 -- VOLUME / CANDLE VALIDITY CHECK
 ==============================================================
-  WARNING  RENDERUSDT last candle volume is very low (0.01x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  FETUSDT last candle volume is very low (0.00x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  HBARUSDT last candle volume is very low (0.26x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  ONDOUSDT last candle volume is very low (0.00x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  TAOUSDT last candle volume is very low (0.00x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  LINKUSDT last candle volume is very low (0.01x avg) -- candle may still be forming. Wait for close before entering.
-  WARNING  DOGEUSDT last candle volume is very low (0.01x avg) -- candle may still be forming. Wait for close before entering.
+  WARNING  HBARUSDT last candle volume is very low (0.22x avg) -- candle may still be forming. Wait for close before entering.
 
 ==============================================================
   SECTION 5 -- WINNER SELECTION
@@ -122,9 +116,9 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   TOP PICK: RENDERUSDT
 ════════════════════════════════════════════
-  ENTRY       : $1.7020
-  STOP LOSS   : $1.6578  (-2.60%)
-  TAKE PROFIT : $1.7904  (+5.19%)
+  ENTRY       : $1.7220
+  STOP LOSS   : $1.6572  (-3.77%)
+  TAKE PROFIT : $1.8517  (+7.53%)
   R:R         : 1:2.0
   Signal      : EMA50 Bounce (last historical)
   Backtest    : 50.0% win rate | 16 trades | EV 0.500R
@@ -137,9 +131,9 @@ Fetching TAOUSDT ...
 ════════════════════════════════════════════
   BACKUP: FETUSDT
 ════════════════════════════════════════════
-  ENTRY       : $0.176100
-  STOP LOSS   : $0.171346  (-2.70%)
-  TAKE PROFIT : $0.185607  (+5.40%)
+  ENTRY       : $0.176300
+  STOP LOSS   : $0.171295  (-2.84%)
+  TAKE PROFIT : $0.186310  (+5.68%)
   R:R         : 1:2.0
   Signal      : EMA50 Bounce (last historical)
   Backtest    : 46.2% win rate | 13 trades | EV 0.385R
